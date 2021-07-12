@@ -6,8 +6,8 @@
 
 ##
 <p align="center">
-  <a href="https://www.npmjs.com/package/@revolist/revogrid"><img src="https://img.shields.io/npm/v/@revolist/vue-datagrid" alt="Latest Version on NPM"/></a>
-  <a href="https://github.com/revolist/revogrid/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@revolist/revogrid" alt="Software License"/></a>
+  <a href="https://www.npmjs.com/package/@a5601564/revogrid"><img src="https://img.shields.io/npm/v/@revolist/vue-datagrid" alt="Latest Version on NPM"/></a>
+  <a href="https://github.com/revolist/revogrid/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@a5601564/revogrid" alt="Software License"/></a>
 </p>
 <h4 align="center">Powerful data grid component built on top of <a href="https://github.com/revolist/revogrid" target="_blank">RevoGrid</a>.</h4>
 <p align="center">
@@ -32,7 +32,7 @@ Millions of cells and thousands columns easy and efficiently.
 
 - Millions of cells viewport with a powerful core in-build by default;
 - Keyboard support with excel like focus;
-- Super light initial starter <img src="https://badgen.net/bundlephobia/min/@revolist/revogrid@latest" alt="Min size"/>. Can be imported with polifill or as module for modern browsers;
+- Super light initial starter <img src="https://badgen.net/bundlephobia/min/@a5601564/revogrid@latest" alt="Min size"/>. Can be imported with polifill or as module for modern browsers;
 - Intelligent Virtual DOM and smart rgRow recombination in order to achieve less redraws;
 - Sorting (multiple options, can be customized per column and advanced with events);
 - Filtering

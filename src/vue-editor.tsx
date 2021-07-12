@@ -1,4 +1,4 @@
-import { RevoGrid } from '@revolist/revogrid/dist/types/interfaces';
+import { RevoGrid } from '@a5601564/revogrid/dist/types/interfaces';
 import { VueConstructor } from 'vue/types/umd';
 import VueEditorAdapter from './vue-editor-adapter';
   

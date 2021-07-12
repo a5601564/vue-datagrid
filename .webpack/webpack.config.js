@@ -14,8 +14,8 @@ module.exports = {
   },
   externals: {
     vue: 'vue',
-    '@revolist/revogrid': '@revolist/revogrid',
-    '@revolist/revogrid/loader': '@revolist/revogrid/loader',
+    '@a5601564/revogrid': '@a5601564/revogrid',
+    '@a5601564/revogrid/loader': '@a5601564/revogrid/loader',
     '@stencil/core': '@stencil/core'
   },
   resolve: {

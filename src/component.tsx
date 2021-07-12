@@ -1,5 +1,5 @@
 import Vue, { CreateElement } from 'vue';
-import RevoGrid from '@revolist/revogrid';
+import RevoGrid from '@a5601564/revogrid';
 
 type Prop = keyof RevoGrid.Components.RevoGrid;
 type Grid = RevoGrid.Components.RevoGrid;
